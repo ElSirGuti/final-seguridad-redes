@@ -1,2 +1,2 @@
-# El Rincon de Isma
+# Proyecto Final de Redes
 ## Template for Laravel install
